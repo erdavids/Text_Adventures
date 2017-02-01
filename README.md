@@ -12,3 +12,4 @@ I hope to add a myriad of features using my knowledge of Java, including...
 + Leveling System
 + Interactive Dialogue 
 
+This game will be implemented with a mixture of object-centric and property-centric design.
